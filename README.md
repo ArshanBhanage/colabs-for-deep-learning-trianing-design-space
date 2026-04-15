@@ -53,9 +53,9 @@ This notebook explains how optimizers guide training and why their behavior shap
 
 | Notebook | YouTube Video | Colab Link |
 |---|---|---|
-| Activation Functions | [Add link here](#) | [Add link here](#) |
-| CNN Fundamentals | [Add link here](#) | [Add link here](#) |
-| Hyperparameter Tuning | [Add link here](#) | [Add link here](#) |
-| Important Classification Metrics | [Add link here](#) | [Add link here](#) |
-| Modern CNN Architectures | [Add link here](#) | [Add link here](#) |
-| Optimizers for Deep Learning | [Add link here](#) | [Add link here](#) |
+| Activation Functions | [Watch on YouTube](https://youtu.be/ZvUoDtzO9H0) | [Add link here](#) |
+| CNN Fundamentals | [Watch on YouTube](https://youtu.be/o5tQkoZ-nCE) | [Add link here](#) |
+| Hyperparameter Tuning | [Watch on YouTube](https://youtu.be/gbAh825BHj0) | [Add link here](#) |
+| Important Classification Metrics | [Watch on YouTube](https://youtu.be/jaGlwf-eSGc) | [Add link here](#) |
+| Modern CNN Architectures | [Watch on YouTube](https://youtu.be/tGxlLWo2izo) | [Add link here](#) |
+| Optimizers for Deep Learning | [Watch on YouTube](https://youtu.be/8Rw43KYBqVg) | [Add link here](#) |
